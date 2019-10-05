@@ -22,10 +22,7 @@ https://drive.google.com/open?id=0B9OXuKKy7pR1T1ZETzJNZm0xVnM
 3. Run installation.sh using sudo:
 	sudo bash installation.sh
 
-4. To setup mysql server and create a database please follow the guide here and here:
-https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04
-
-https://www.a2hosting.ca/kb/developer-corner/mysql/managing-mysql-databases-and-users-from-the-command-line
+4. To setup mysql server and create a database please follow the guide [here](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04) and [here](https://www.a2hosting.ca/kb/developer-corner/mysql/managing-mysql-databases-and-users-from-the-command-line).
 
 5. Download the data file here:
 https://drive.google.com/open?id=0B9OXuKKy7pR1T1ZETzJNZm0xVnM
