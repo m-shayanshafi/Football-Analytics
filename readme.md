@@ -28,7 +28,13 @@ https://drive.google.com/open?id=0B9OXuKKy7pR1T1ZETzJNZm0xVnM
 https://drive.google.com/open?id=0B9OXuKKy7pR1T1ZETzJNZm0xVnM
 
 6. Load the data file into mysql by using the command below:
+
+```
 mysql -u username -p database_name < file.sql
+```
 
 7. Run football.py, no sudo access required. Need to provide database access
+
+```	
 	python3 football.py <host> <user> <password> <database>
+```
