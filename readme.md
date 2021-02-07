@@ -38,3 +38,11 @@ mysql -u username -p database_name < file.sql
 ```	
 	python3 football.py <host> <user> <password> <database>
 ```
+
+
+## Acknowledgements
+
+This was a joint directed research undergraduate project done in collaboration with [Nofel Yaseen](https://github.com/NofelYaseen) carried out at the Lahore University of Management Sciences under the supervision of [Fareed Zaffar](https://sdsb.lums.edu.pk/lums_employee/422).
+
+
+
