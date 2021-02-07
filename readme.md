@@ -4,7 +4,7 @@ This goal is to generate a model for predicting at runtime whether a shot will g
 
 We further use this prediction mechanism to estimate the expected Goal Value of the player. 
 
-The model is built by combining features used to predict are obtained from the following papers:
+The model is built by combining features obtained from the following papers:
 
 1. [A network-based approach to evaluate the performance of
 football teams](http://ceur-ws.org/Vol-1970/paper-07.pdf)
