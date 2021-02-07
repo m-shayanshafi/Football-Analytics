@@ -42,7 +42,7 @@ mysql -u username -p database_name < file.sql
 
 ## Acknowledgements
 
-This was a joint directed research undergraduate project done in collaboration with [Nofel Yaseen](https://github.com/NofelYaseen) carried out at the Lahore University of Management Sciences under the supervision of [Fareed Zaffar](https://sdsb.lums.edu.pk/lums_employee/422).
+This was a joint directed research undergraduate project done in collaboration with [Nofel Yaseen](https://github.com/NofelYaseen) under the supervision of [Fareed Zaffar](https://sdsb.lums.edu.pk/lums_employee/422).
 
 
 
